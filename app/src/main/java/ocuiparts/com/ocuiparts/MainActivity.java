@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static String someValue = "This is from library";
+    public static String value = "This is from library";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
